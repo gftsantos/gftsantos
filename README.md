@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/gftsantos">
-  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=gftsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gftsantos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" img align = "left" img width="48%" src="https://github-readme-stats.vercel.app/api?username=gftsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br /><br /><br /><br /><br /><br /><br /><br />
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gfts-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
