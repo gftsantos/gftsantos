@@ -1,6 +1,5 @@
 ### Hi! I am Gonçalo Santos 👋
 
-- 🔭 I’m currently working on mobile development
 - 🌱 I’m currently learning Dart
 - 😄 Pronouns: he/him/his
 
