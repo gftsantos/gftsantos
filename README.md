@@ -4,23 +4,25 @@ Software developer building web interfaces, mobile apps and developer tools.
 
 I enjoy turning ideas into practical software, from visualisation components and release workflows to accessibility, personal organisation and creative automation.
 
-## Selected public projects
+## Open source
 
-| Project | What I'm building |
+### [Nodara](https://github.com/gftsantos/nodara)
+
+A visualisation library for Gantt, charts, topologies and calendars, with support for React, Vue, Angular and Web Components. Available under the MIT license.
+
+## Projects with private source
+
+| Project | Focus |
 | --- | --- |
-| [Nodara](https://github.com/gftsantos/nodara) | Gantt, charts, topologies and calendars for React, Vue, Angular and Web Components. |
-| [AccessFix](https://github.com/gftsantos/accessfix-auditoria) | Accessibility and UX audit workspace with findings, evidence and remediation tracking. |
-| [SOS Receitas](https://github.com/gftsantos/sos-receitas) | Flutter app for pantry management, recipes, meal planning and shopping lists. |
-| [Video Maker](https://github.com/gftsantos/video-maker) | Local Python tools for transcription, video clipping, review and FFmpeg rendering. |
+| AccessFix | Accessibility and UX audits, with findings, evidence and remediation tracking. |
+| ReleaseGuard | Requirements and test traceability, release-readiness checks and go/no-go decision support. |
+| SOS Receitas | Pantry management, recipes, meal planning and shopping lists. |
+| Video Maker | Local workflows for transcription, video clipping, review and rendering. |
+| Controlo | Personal account inventory, breach-exposure review and account-removal tracking. |
 
-These are personal projects in development. Each repository documents its setup and current scope.
+These are personal projects in development. Their source code is private; this profile provides a high-level overview.
 
-### More projects
-
-- **ReleaseGuard**: requirements and test traceability, release-readiness checks and evidence-based go/no-go decisions. Public repository access is pending.
-- **Controlo**: personal account inventory, breach-exposure review and account-removal tracking. Public repository access is pending.
-
-## Technologies across these projects
+## Technologies across my projects
 
 - **Languages:** TypeScript, JavaScript, Python and Dart.
 - **Interfaces:** React, Vue, Angular, Web Components, Flutter, HTML and CSS.
