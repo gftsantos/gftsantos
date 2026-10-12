@@ -2,7 +2,7 @@
 
 Software developer building web interfaces, mobile apps and developer tools.
 
-I enjoy turning ideas into practical software — from visualisation components and release workflows to accessibility, personal organisation and creative automation.
+I enjoy turning ideas into practical software, from visualisation components and release workflows to accessibility, personal organisation and creative automation.
 
 ## Selected public projects
 
@@ -17,12 +17,8 @@ These are personal projects in development. Each repository documents its setup 
 
 ### More projects
 
-- **ReleaseGuard** — requirements and test traceability, release-readiness checks and evidence-based go/no-go decisions. Public repository access is pending.
-- **Controlo** — personal account inventory, breach-exposure review and account-removal tracking. Public repository access is pending.
-
-### Learning archive
-
-[BlackJack](https://github.com/gftsantos/BlackJack) — an early JavaScript learning project exploring browser-based game logic.
+- **ReleaseGuard**: requirements and test traceability, release-readiness checks and evidence-based go/no-go decisions. Public repository access is pending.
+- **Controlo**: personal account inventory, breach-exposure review and account-removal tracking. Public repository access is pending.
 
 ## Technologies across these projects
 
@@ -33,4 +29,8 @@ These are personal projects in development. Each repository documents its setup 
 ## Connect
 
 [Medium](https://gftsantos.medium.com/) · [Email](mailto:gftsantos@gmail.com)
+
+## Contributions
+
+![Contribution snake animation](https://raw.githubusercontent.com/gftsantos/gftsantos/output/github-contribution-grid-snake.svg)
 
